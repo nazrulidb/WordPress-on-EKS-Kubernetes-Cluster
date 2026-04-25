@@ -26,7 +26,7 @@ spec:
         - name: WORDPRESS_DB_PASSWORD
           value: "tuyt65#yh"
         - name: WORDPRESS_DB_USER
-          value: wordpress
+          value: myuser
         ports:
         - containerPort: 80
           name: wordpress
